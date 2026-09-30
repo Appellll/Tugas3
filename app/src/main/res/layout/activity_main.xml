@@ -12,6 +12,22 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/btnKirimPesan"
-        android:text="Kirim Pesan"/>
+        android:text="Kirim Pesan"
+        android:textSize="16sp"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnSetAlarm"
+        android:text="Set Alarm"
+        android:textSize="16sp"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnSetTimer"
+        android:text="Set Timer"
+        android:textSize="16sp"/>
+
 
 </LinearLayout>
