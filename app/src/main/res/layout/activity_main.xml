@@ -48,4 +48,16 @@
         android:text="Set Event"
         android:textSize="16sp"/>
 
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnGetPhoto"
+        android:text="Get Photo"
+        android:textSize="16sp"/>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/ivHasil"/>
+
 </LinearLayout>
